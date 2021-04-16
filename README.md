@@ -1,4 +1,7 @@
 # Portfolio Website for BEW1.2
+## This project will probably not receive updates
+
+This is a simple project that i used to learn Django
 
 (5 Points) How is this project structure different than a Flask (or Node) application? What role are the urls.py and views.py files responsible for?
 
